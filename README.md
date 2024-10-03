@@ -5,7 +5,7 @@ This is a REST API for managing customer data for a small shop. It includes auth
 ## Requirements
 
 - Java 17
-- H2 Database
+- MySql
 - Docker
 
 ## Getting Started
